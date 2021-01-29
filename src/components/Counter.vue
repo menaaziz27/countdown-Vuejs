@@ -1,13 +1,5 @@
 <template>
   <div>
-    <section
-      class="text-3xl flex justify-center content-center flex-col mx-auto text-center"
-    >
-      Buy Now
-    </section>
-    <section class="felx text-6xl justify-center content-center">
-      <div class="label text-sm absolute bottom-0">days</div>
-    </section>
     {{ displayDays }}
     {{ displayHours }}
     {{ displayminutes }}
