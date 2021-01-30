@@ -5,9 +5,15 @@ simple countdown application based on Vuejs
 ## How the app looks like
 
 <p>
-  <img src="./assets/countdown.png" >
+  <img src="./assets/countdown.jpg" >
 </p>
+
+### live preview of the app
+
+[https://jovial-bartik-94cec9.netlify.app/](https://jovial-bartik-94cec9.netlify.app/)
+
 ## Project setup
+
 ```
 npm install
 ```

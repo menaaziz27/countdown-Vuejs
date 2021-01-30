@@ -39,7 +39,7 @@ export default {
     showRemaining() {
       const timer = setInterval(() => {
         const now = new Date();
-        const end = new Date(2021, 1, 2, 2, 10, 10, 10);
+        const end = new Date(2022, 5, 3, 2, 10, 10, 10);
         const distance = end.getTime() - now.getTime();
 
         // if the timer end
